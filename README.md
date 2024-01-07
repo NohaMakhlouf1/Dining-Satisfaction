@@ -1,14 +1,6 @@
 # Dining-Satisfaction
-## 1- Dining satisfaction notebook
-In this notebook, I did the following: 
-- Import data
-- Label encoding
-- Feature selection using heatmap
-- Split data
-- applied **Logistic regression** on the selected features
-- Model got *80% accuracy*
-
-## 2- Dining satisfaction dashboard
+## 1- Dining satisfaction dashboard
+https://lookerstudio.google.com/reporting/00b98558-d998-43ea-9e70-07d9a4dd32a0
 ## **Insights** 
 ### 1- Guest Reviews On Some Features
 this is a bar chart sharing insights about customer rates,
@@ -33,3 +25,13 @@ this is a line chart showing the distribution of the guests distance from home.
 this is an indicator of the average waiting time for guests.
 
 and on the left I put some numbers of the data. 
+
+## 2- Dining satisfaction notebook
+In this notebook, I did the following: 
+- Import data
+- Label encoding
+- Feature selection using heatmap
+- Split data
+- applied **Logistic regression** on the selected features
+- Model got *80% accuracy*
+
